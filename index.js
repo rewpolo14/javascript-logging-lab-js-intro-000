@@ -1,1 +1,1 @@
-console.console.error('Uh oh');
+console.error('Uh oh');
